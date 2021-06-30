@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Netflix Medium";
+  src: url("../fonts/2ceaf71a48fcc57e6b26697b2b994118.eot");
+  src: url("../fonts/2ceaf71a48fcc57e6b26697b2b994118.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/2ceaf71a48fcc57e6b26697b2b994118.woff2") format("woff2"),
+    url("../fonts/2ceaf71a48fcc57e6b26697b2b994118.woff") format("woff"),
+    url("../fonts/2ceaf71a48fcc57e6b26697b2b994118.ttf") format("truetype"),
+    url("../fonts/2ceaf71a48fcc57e6b26697b2b994118.svg#.") format("svg");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Netflix Normal";
+  src: url("../fonts/b4c8c9850051a2abbfada08e6d0923fc.eot");
+  src: url("../fonts/b4c8c9850051a2abbfada08e6d0923fc.eot?#iefix")
+      format("embedded-opentype"),
+    url("../fonts/b4c8c9850051a2abbfada08e6d0923fc.woff2") format("woff2"),
+    url("../fonts/b4c8c9850051a2abbfada08e6d0923fc.woff") format("woff"),
+    url("../fonts/b4c8c9850051a2abbfada08e6d0923fc.ttf") format("truetype"),
+    url("../fonts/b4c8c9850051a2abbfada08e6d0923fc.svg#.") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
